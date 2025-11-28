@@ -11,12 +11,10 @@
             "id": "bf12c2e45f53341f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Taskmanager_uml.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Taskmanager_uml.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -182,8 +180,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bf12c2e45f53341f",
+  "active": "ba657b95282f9b62",
   "lastOpenFiles": [
+    "Taskmanager_uml.excalidraw",
     "Excalidraw/Drawing 2025-11-28 23.54.42.excalidraw.md",
     "Taskmanager_uml.excalidraw.md",
     "Excalidraw",
