@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "ce46450259a16af8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd162a7e3fa0e11e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf12c2e45f53341f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uml_nyilak_tutorial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "uml_nyilak_tutorial"
+            }
+          },
+          {
+            "id": "8090304c7845c2cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bin/Excalidraw/Drawing 2025-11-28 22.41.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-28 22.41.04.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c95778cc68588f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3bbf3d5e16e7787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba657b95282f9b62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "343acecb9d5d9b7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb149104b03c9bea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1732cbc811b866f",
+    "type": "split",
+    "children": [
+      {
+        "id": "642245f74b53732a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701cf23ae82a65fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UML tutorial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for UML tutorial"
+            }
+          },
+          {
+            "id": "a9089dfb9e6ee39c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UML tutorial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from UML tutorial"
+            }
+          },
+          {
+            "id": "d1cf0081976dd705",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d64f1f2bc7d0e10",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5924330b52c1c153",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UML tutorial.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of UML tutorial"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "8090304c7845c2cb",
+  "lastOpenFiles": [
+    "uml_nyilak_tutorial.md",
+    "bin/Pasted image 20251128231457.png",
+    "bin/Excalidraw/Drawing 2025-11-28 22.41.04.excalidraw.md",
+    "bin/Excalidraw",
+    "UML tutorial.md",
+    "bin/Pasted image 20251128222011.png",
+    "bin"
+  ]
+}
